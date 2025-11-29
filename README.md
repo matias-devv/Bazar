@@ -113,7 +113,7 @@ El front-end previsto será simple, profesional y adaptado a las funciones princ
 
 Versión sugerida:
 
-Spring Boot: 3.x
+Spring Boot: 3.5.7
 
 Java: 17
 
